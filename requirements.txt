@@ -1,0 +1,9 @@
+beir
+faiss-cpu
+numba
+numpy
+pybind11
+pytrec-eval
+scikit-learn
+torch
+tqdm
