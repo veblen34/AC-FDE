@@ -2,6 +2,9 @@
 
 This repository contains a minimal implementation of the ACFDE pipeline for review.
 
+## Appendix
+You can find the theoretical analysis in the appendix of the paper. (Appendix.pdf)
+
 ## Environment Setup
 
 We recommend using Conda to manage the environment.
