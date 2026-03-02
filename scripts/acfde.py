@@ -43,7 +43,7 @@ def parse_args():
     parser.add_argument("--hnsw", action="store_true", default=True)
     parser.add_argument("--no-hnsw", action="store_true")
 
-    parser.add_argument("--train-fusion", action="store_true", default=True)
+    parser.add_argument("--train-fusion", action="store_true", default=False)
     parser.add_argument("--no-train-fusion", action="store_true")
     parser.add_argument("--fusion-epochs", type=int, default=20)
     parser.add_argument("--fusion-batch-size", type=int, default=256)
